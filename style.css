@@ -1,11 +1,15 @@
 .headline {
     text-align: center;
     color: brown;
+    text-decoration: underline;
+    text-decoration: brown;
+    font-weight: bold;
 }
 
 .paragraph {
     text-align: center;
     color: cornflowerblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .image {
